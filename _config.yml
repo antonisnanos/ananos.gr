@@ -14,12 +14,12 @@ rawurl:
 # google_analytics: 
 
 # Pagination number
-paginate:         10
+#paginate:         10
 
 # category page
-collections:
-  category:
-    output: true
+#collections:
+#  category:
+#    output: true
 
 defaults:
   -

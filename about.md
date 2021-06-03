@@ -1,11 +1,9 @@
 ---
 layout: page
-title: About
+title: Ποιοι είμαστε
 permalink: /about
 ---
 
-### Hello
-
-This is a test of about page.
+### Ποιοι Είμαστε
 
 
